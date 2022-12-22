@@ -1,6 +1,6 @@
 .customers-review {
   &__img-container {
-    width: 85px;
+    width: 100px;
     height: 85px;
     margin-bottom: 15px;
     margin-inline: auto;
@@ -49,7 +49,7 @@
     z-index: -1;
   }
   &__article {
-    padding: 43px 57px 26px 66px;
+    padding: 43px 90px 26px 90px;
     font-weight: 500;
     font-size: var(--font-12px);
     line-height: 2.55;
